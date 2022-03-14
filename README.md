@@ -5,11 +5,11 @@ Given two string subsequences, the program returns a string that contains the tw
 # How to Compile and Run the Code
 - Using Windows, go to Command Prompt (can be found by searching through apps).
 - In the terminal, make a clone of the GitHub file using the command: 
-  * 'git clone <insert url>'
+  'git clone <insert url>'
 - Go inside the file with the command:
-  * 'cd cs141-final-project-longest-sub'
+  'cd cs141-final-project-longest-sub'
 - Generate the executable file for the code:
-  * 'g++ main.cpp'
+ 'g++ main.cpp'
 - Run the executable:
-  * 'a'
+  'a'
   
