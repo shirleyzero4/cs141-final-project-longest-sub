@@ -26,3 +26,6 @@ Run the executable:
 $ a
 ``` 
   
+# Running the Code
+The code will ask for two string inputs and the program will find the longest common subsequence between the two strings.
+
