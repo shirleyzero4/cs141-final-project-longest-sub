@@ -4,7 +4,7 @@ Given two string subsequences, the program returns a string that contains the tw
 
 # How to Compile and Run the Code
 Using Windows, go to Command Prompt (can be found by searching through apps).
-![Screenshot](Screenshot.png)
+![Screenshot](Screenshot.png | width=100)
 
 In the terminal, make a clone of the GitHub file using the command: 
 ```sh
