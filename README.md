@@ -10,7 +10,7 @@ Using Windows, go to Command Prompt (can be found by searching through apps).
 
 In the terminal, make a clone of the GitHub file using the command: 
 ```sh
-$ git clone <insert cloned url>
+$ git clone https://github.com/shirleyzero4/cs141-final-project-longest-sub.git
 ```
 
 Go inside the file with the command:
