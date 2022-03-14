@@ -1,5 +1,6 @@
 # CS141 Final Project: Longest Common Subsequence
 > Author: Shirley Nguyen ([@shirleyzero4](https://github.com/shirleyzero4))
+
 Given two string subsequences, the program returns a string that contains the two longest common subsequence between the two inputs.
 
 # How to Compile and Run the Code
